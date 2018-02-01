@@ -10,7 +10,7 @@ public class Test {
 
     /** Fill the dataset with points readed from your own dataset.
      *  Create your own points.txt by running the python script avaiable at
-     *  @see <a href="https://github.com/kinik93/Java_K_means/blob/master/GeneratePoints.py">https://github.com/kinik93/Java_K_means/blob/master/GeneratePoints.py</a>
+     *  @see <a href="https://github.com/kinik93/Java_Kmeans/blob/master/GeneratePoints.py">https://github.com/kinik93/Java_Kmeans/blob/master/GeneratePoints.py</a>
      */
     private static void fillDataset(Dataset d){
         try{
